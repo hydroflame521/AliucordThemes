@@ -1,0 +1,26 @@
+{
+    "manifest": {
+        "author": "hydroflame521",
+        "name": "bluetheme",
+        "version": "1.0.1",
+        "updater": "https:\/\/raw.githubusercontent.com\/hydroflame521\/AliucordThemes\/main\/bluetheme.json"
+    },
+    "background": {
+        "blur_radius": 2.3,
+        "overlay_alpha": 10,
+        "url": "https:\/\/media.discordapp.net\/attachments\/997808731645562891\/1136074468121391134\/1690931634233.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/978829482788028477\/1161432728361775104\/BAHNSCHRIFT.TTF"
+    },
+    "simple_colors": {
+        "mention_highlight": 407606229,
+        "background": -15394771,
+        "background_secondary": -15520956,
+        "input_background": 203914957,
+        "statusbar": 0
+    },
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
